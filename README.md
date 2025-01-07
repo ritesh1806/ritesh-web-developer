@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 ## About Me
 - 💼 Full Stack Developer
 - 🌱 Currently enhancing my skills in HTML5, Tailwind CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js
-- 🎓 Persued BE in Information Technology from RNS Institute Of Technology
+- 🎓 Pursued BE in Information Technology from RNS Institute Of Technology
 
 ## Tools and Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
