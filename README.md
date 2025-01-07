@@ -6,7 +6,6 @@ Welcome to my GitHub profile!
 ## About Me
 - 💼 Full Stack Developer
 - 🌱 Currently enhancing my skills in HTML5, Tailwind CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js
-- ✨ Completed Full Stack Development at NxT Wave
 - 🎓 Persued BE in Information Technology from RNS Institute Of Technology
 
 ## Tools and Languages
@@ -28,7 +27,7 @@ Welcome to my GitHub profile!
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 ## Projects
-- [Quick Bite]():  A Netflix Clone App developed with user authentication. Username: **saira**,  Password: **princess@9**
+- [Quick Bite]():  A Food Delivery App developed with user authentication.
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-agarwal-se)
